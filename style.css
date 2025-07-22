@@ -20,6 +20,7 @@ nav {
 .links {
     position: relative;
 }
+
 .links::before,
 .links::after {
     content: '';
@@ -30,6 +31,7 @@ nav {
     background: #002b8b;
     transition: 0.3s ease;
 }
+
 .links::before { right: 50%; }
 .links::after { left: 50%; }
 .links:hover::before,
