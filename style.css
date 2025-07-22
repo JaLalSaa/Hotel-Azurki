@@ -97,7 +97,8 @@ nav {
 .btn-gradient:hover,
 .reserver-btn:hover,
 .btn-special:hover,
-.abonner:hover {
+.abonner:hover,
+.btn-special-one:hover {
     background: linear-gradient(to right, #ffa114, #ff6f1b);
 }
 
